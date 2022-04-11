@@ -1,0 +1,20 @@
+.App {
+  margin: 15px;
+}
+
+.edit {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.edit-div {
+  display: flex;
+  flex-direction: row;
+}
+
+.edit-div label {
+  width: 100px;
+}
